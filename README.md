@@ -14,6 +14,7 @@
 ## Learnings
 - Incorporated advanced data analysis techniques, with a specialization in time series analysis, to deliver valuable insights and accurate sales forecasting.
 - The interactive dashboard creation contributed significantly to driving business success.
+- Learned about DAX queries and their execution in PowerBI, use of various charts and their representation, along with tables representation and how the data is oragnized when fetched from CSV files.
 
 ## Screenshots
 
